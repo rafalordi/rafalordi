@@ -13,35 +13,36 @@
 ----
 
 #### Skills
-
-<a href="#" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" align="center" heigth="50" width="60">
-</a>
-
-<a href="#" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" align="center" heigth="50" width="60">
-</a>
-
-<a href="#" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" align="center" heigth="50" width="60">
-</a>
-
-<a href="#" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" align="center" heigth="50" width="60">
-</a>
-
-<a href="#" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" align="center" heigth="50" width="60">
-</a>
-
-<a href="#" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" align="center" heigth="50" width="60">
-</a>
-
-<a href="#" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" align="center" heigth="50" width="60">
-</a>
-
-<a href="#" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" align="center" heigth="50" width="60">
-</a>
+<div>
+  <a href="#" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" align="center" heigth="50" width="60">
+  </a>
+  
+  <a href="#" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" align="center" heigth="50" width="60">
+  </a>
+  
+  <a href="#" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" align="center" heigth="50" width="60">
+  </a>
+  
+  <a href="#" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" align="center" heigth="50" width="60">
+  </a>
+  
+  <a href="#" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" align="center" heigth="50" width="60">
+  </a>
+  
+  <a href="#" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" align="center" heigth="50" width="60">
+  </a>
+  
+  <a href="#" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" align="center" heigth="50" width="60">
+  </a>
+  
+  <a href="#" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" align="center" heigth="50" width="60">
+  </a>
+</div>
