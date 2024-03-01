@@ -47,4 +47,6 @@
   </a>
 </div>
 
+----
 
+<img src="https://badges.pufler.dev/visits/rafalordi/rafalordi" alt="Visitors badge" />
