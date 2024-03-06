@@ -49,4 +49,4 @@
 
 ----
 
-<img src="https://badges.pufler.dev/visits/rafalordi/rafalordi" alt="Visitors badge" />
+  [![HitCount](https://hits.dwyl.com/rafalordi/rafalordi.svg?style=flat-square)](http://hits.dwyl.com/rafalordi/rafalordi)
