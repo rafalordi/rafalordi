@@ -1,21 +1,27 @@
-### Hi there 👋
-
+<div align="center">
+    Hi there 👋
+</div>
+   <br />
 <div align="center">
    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rafalordi&theme=dark&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
 </div>
 
 ----
-
-#### Contact
-
-<a href="https://www.linkedin.com/in/rafael-lordi/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align="center" heigth="50" width="60">
-</a>
+<div align="center">
+   Contact
+   <br />
+   <br />
+   <a href="https://www.linkedin.com/in/rafael-lordi/" target="_blank">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align="center" heigth="50" width="60">
+   </a>
+</div>
 
 ----
 
-#### Skills
+<div align="center">
+Skills
 <div style="font-size: 0;">
+   <br />
   <a href="#" target="_blank" style="margin: 0;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" align="center" height="50" width="60" style="margin: 0;">
   </a>
@@ -48,8 +54,15 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" align="center" height="50" width="60" style="margin: 0;">
   </a>
 </div>
+</div>
 
 ----
 
-#### Visits
-  [![HitCount](https://hits.dwyl.com/rafalordi/rafalordi.svg?style=flat-square)](http://hits.dwyl.com/rafalordi/rafalordi)
+<div align="center">
+    Visits
+    <br />
+    <br />
+    <a href="http://hits.dwyl.com/rafalordi/rafalordi">
+        <img src="https://hits.dwyl.com/rafalordi/rafalordi.svg?style=flat-square" alt="HitCount">
+    </a>
+</div>
