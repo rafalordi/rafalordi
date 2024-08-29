@@ -55,14 +55,5 @@
             </a>
         </div>
     </div>
-    <hr>
-    <div align="center">
-        Visits
-        <br />
-        <br />
-        <a href="http://hits.dwyl.com/rafalordi/rafalordi">
-            <img src="https://hits.dwyl.com/rafalordi/rafalordi.svg?style=flat-square" alt="HitCount">
-        </a>
-    </div>
 </body>
 </html>
