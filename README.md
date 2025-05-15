@@ -22,20 +22,6 @@
      </div>
     <br />
     <div align="center">
- <a href="https://github.com/rafalordi"> 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafalordi&theme=algolia" width="100%" /> </br></br>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafalordi&theme=algolia" width="31%" align="left"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rafalordi&theme=algolia" width="31%" align="right" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rafalordi&theme=algolia" width="31%" align="center" title="🦉 Night owl" />  
-    </div>
-     <br />
-     <div>
-         <a href="https://github.com/rafalordi">
-<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
-</a>
-     </div>
-     <br />
-    <div align="center">
         Contact
         <br />
         <br />
@@ -43,6 +29,7 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align="center" height="50" width="60">
         </a>
     </div>
+    <br >
         <div>
          <a href="https://github.com/rafalordi">
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
